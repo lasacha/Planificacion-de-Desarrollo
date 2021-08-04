@@ -1,1 +1,2 @@
 Documento B
+Este es el segundo dia de trabajo con git
